@@ -1,0 +1,1 @@
+This file is used to practice using Git during The Coder's Guild lesson
